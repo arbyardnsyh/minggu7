@@ -1,0 +1,41 @@
+[
+    {
+        "nama buku": "The war of knigth ",
+        "harga": 15000,
+        "profil pembuat": {
+            "nama": "Moh. Arbi Ardiansyah",
+            "alamat": "Bali"
+        },
+        "hobi": [
+            "memanah",
+            "joging"
+        ],
+        "id": 1
+    },
+    {
+        "nama buku": "Si Bolang and Friends",
+        "harga": 10000,
+        "profil pembuat": {
+            "nama": "Kiki ahmad",
+            "alamat": "Surabaya"
+        },
+        "hobi": [
+            "meninju",
+            "work out"
+        ],
+        "id": 2
+    },
+    {
+        "id": 3,
+        "nama_buku": "Tom and Jerry",
+        "harga": 20000,
+        "profil_pembuat": {
+            "nama": "Miftahul Huda",
+            "alamat": "Semarang"
+        },
+        "hobi": [
+            "mengaji",
+            "lari"
+        ]
+    }
+]

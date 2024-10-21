@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "nama": "Arby",
+        "umur": 22,
+        "alamat": {
+            "jalan": "Jalan Pahlawan",
+            "kota": "Bandung"
+        },
+        "hobi": [
+            "memanah",
+            "menembak"
+        ]
+    },
+    {
+        "id": 2,
+        "nama": "kiki",
+        "umur": 22,
+        "alamat": {
+            "jalan": "Jalan Pahlawan jaya",
+            "kota": "Bandung city"
+        },
+        "hobi": [
+            "memanah",
+            "menembak"
+        ]
+    }
+]
